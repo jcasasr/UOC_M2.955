@@ -1,29 +1,25 @@
-# M2.855 - Modelos avanzados de minería de datos
-## Máster Universitario de Ciencia de Datos (_Data Science_)
+# M2.955 - Models avançats de mineria de dades
+## Màster Universitari de Ciència de Dades (_Data Science_)
 
-Repositorio de ejemplos de la asignatura "**Modelos avanzados de minería de datos**" del [Máster Universitario de Ciencia de Datos](https://www.uoc.edu/es/estudios/masters/master-universitario-data-science) de la [Universitat Oberta de Catalunya](http://www.uoc.edu) (UOC).
+Repositori d'exemples de l'assignatura "**Models avançats de mineria de dades**" del [Màster Universitari de Ciència de Dades](https://www.uoc.edu/ca/estudis/masters/master-universitari-data-science) de la [Universitat Oberta de Catalunya](http://www.uoc.edu) (UOC).
 
-En esta página encontraréis ejercicios prácticos en [Jupyter](http://jupyter.org/) _notebooks_ que os permitirán trabajar los contenidos aprendidos en la teoría de la asignatura.
+En aquesta pàgina trobareu exercicis pràctics en [Jupyter](http://jupyter.org/) _notebooks_ que us permetran treballar els continguts presentats a la teoria de l'assignatura.
 
-## Instalación de componentes
-Recomendamos los siguientes enlaces para poder instalar los componentes de software necesarios para seguir los ejercicios propuestos:
+## Instal·lació de components
+Recomanem els següents enllaços per poder instal·lar els components de programari necessaris per seguir els exercicis proposats:
 
 - [Anaconda](https://www.anaconda.com/products/individual)
-- [Entorno de trabajo Jupyter](http://jupyter.org/install.html)
+- [Entorn de treball Jupyter](http://jupyter.org/install.html)
 
-## Contenido del repositorio
+## Contingut del repositori
 
-### Materiales didácticos de la asignatura
+### Exemples de codi
 
-- Versión preliminar de los [materiales](./Materiales/)
-
-### Ejemplos de código 
-
-- Módulo 1 - Introducción al aprendizaje automático
-- [Módulo 2 - Preparación de los datos](./M2/)
-- Módulo 3 - Sesgo algorítmico
-- [Módulo 4 - Introducción al análisis de series temporales](./M4/)
-- [Módulo 5 - Métodos no supervisados](./M5/)
-- [Módulo 6 - Métodos supervisados](./M6/)
-- [Módulo 7 - Las redes neuronales artificiales](./M7/)
-- [Módulo 8 - Combinación de clasificadores](./M8/)
+- Mòdul 1 - Introducció a l'aprenentatge automàtic
+- [Mòdul 2 - Preparació de les dades](./M2/)
+- Mòdul 3 - Biaix algorítmic
+- [Mòdul 4 - Introducció a l'anàlisi de sèries temporals](./M4/)
+- [Mòdul 5 - Mètodes no supervisats](./M5/)
+- [Mòdul 6 - Mètodes supervisats](./M6/)
+- [Mòdul 7 - Les xarxes neuronals artificials](./M7/)
+- [Mòdul 8 - Combinació de classificadors](./M8/)
